@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/acionHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/acionAdd"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"
+        android:title="Home" />
+    <item
+        android:id="@+id/acionDelete"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"
+        android:title="Delet" />
+    <item
+        android:id="@+id/acionUpdate"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+</menu>
